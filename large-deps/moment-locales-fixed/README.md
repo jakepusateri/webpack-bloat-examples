@@ -1,0 +1,1 @@
+new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)]
