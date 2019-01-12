@@ -1,1 +1,1 @@
-new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)]
+This example shows the savings by importing only the functions from `lodash` that are used. In this case, only `lodash/pick`.

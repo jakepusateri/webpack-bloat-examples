@@ -1,0 +1,1 @@
+This example shows the impact on bundle size when all of the locales of `moment` are included in a bundle.

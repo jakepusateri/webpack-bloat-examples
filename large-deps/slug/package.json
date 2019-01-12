@@ -1,0 +1,22 @@
+{
+  "name": "lodash-full",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "analyze": "webpack-bundle-analyzer stats.json dist/ -m static",
+    "build": "webpack --json > stats.json && npm run analyze"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slug": "^0.9.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.28.4",
+    "webpack-bundle-analyzer": "^3.0.3",
+    "webpack-cli": "^3.2.1"
+  }
+}

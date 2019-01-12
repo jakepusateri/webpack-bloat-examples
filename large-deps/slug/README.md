@@ -1,0 +1,1 @@
+This example shows what the `slug` package can do to bundle size.

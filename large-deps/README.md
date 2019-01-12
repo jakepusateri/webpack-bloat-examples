@@ -1,0 +1,1 @@
+This folder contains examples from the article [5 big dependencies I removed from my webpack bundles](https://www.jakepusateri.com/blog/find-the-big-dependency/)

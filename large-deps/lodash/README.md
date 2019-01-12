@@ -1,1 +1,1 @@
-new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)]
+This example shows what the `lodash` package can do to bundle size when imported as a whole.

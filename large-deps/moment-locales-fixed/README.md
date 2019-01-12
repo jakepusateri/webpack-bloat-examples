@@ -1,1 +1,1 @@
-new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)]
+This example shows the savings from excluding the locales from `moment` via webpack plugin.
